@@ -24,3 +24,12 @@ Feel free to explore my repositories and discover the fusion of melodies and cod
 
 Stay melodious,
 Korchea 🎸👨‍💻
+
+<h2 align="center"> 📊 GitHub Stats: </h2>
+<br />
+<p align="center">
+
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Korchea&theme=bear&hide_border=true&bg_color=00000000&include_all_commits=false&count_private=false&layout=compact" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Korchea&theme=bear&hide_border=true&background=00000000" />
+</p>
