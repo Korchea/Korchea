@@ -25,8 +25,8 @@ Feel free to explore my repositories and discover the fusion of melodies and cod
 Stay melodious,
 Korchea 🎸👨‍💻
 
+<h3>You can find me here:</h3>
 <div align="center">
-  <h2>You can find me here:</h2>
 &ensp;[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:guilllermo.vega@gmail.com)
 &ensp;[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/guillermo-vega-hern%C3%A1ndez-244923219/)
 <div/>
